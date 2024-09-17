@@ -15,5 +15,7 @@
 <img width="726" alt="Снимок экрана 2024-09-16 в 09 43 34" src="https://github.com/user-attachments/assets/e913c3d4-ea21-4897-b0ed-4d693057704a">
 <img width="623" alt="Снимок экрана 2024-09-16 в 09 45 26" src="https://github.com/user-attachments/assets/87e8c727-b8ab-4822-9a1e-f20ffa492647">
 <img width="740" alt="Снимок экрана 2024-09-16 в 09 46 19" src="https://github.com/user-attachments/assets/377fb978-a639-434f-96d4-ee395a211fd3">
+<img width="729" alt="Снимок экрана 2024-09-17 в 08 54 39" src="https://github.com/user-attachments/assets/ab7d0e99-7d54-4331-a31a-172109b0b645">
+<img width="1019" alt="Снимок экрана 2024-09-17 в 08 56 41" src="https://github.com/user-attachments/assets/36db702d-a6d0-4c4a-b0a3-1ba54aa5fcce">
 <img width="744" alt="Снимок экрана 2024-09-16 в 09 46 46" src="https://github.com/user-attachments/assets/a2cdd1d4-253d-4158-ad01-3e659b2ca98f">
 <img width="675" alt="Снимок экрана 2024-09-16 в 09 47 03" src="https://github.com/user-attachments/assets/b060e21e-f20f-4e57-8619-6e6ee6076841">
