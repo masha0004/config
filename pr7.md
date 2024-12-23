@@ -48,4 +48,5 @@ deactivate P
 @enduml
 ```
 
-![alt text](image-1.png)
+![Uploading Снимок экрана 2024-12-23 в 14.12.12.png…]()
+
