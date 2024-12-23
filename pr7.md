@@ -48,5 +48,6 @@ deactivate P
 @enduml
 ```
 
-![Uploading Снимок экрана 2024-12-23 в 14.12.12.png…]()
+![Uploading image-1.png…]()
+
 
