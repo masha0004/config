@@ -48,6 +48,7 @@ deactivate P
 @enduml
 ```
 
-![Uploading image-1.png…]()
+
+<img width="623" alt="image-1" src="https://github.com/user-attachments/assets/53f275aa-2092-4b9f-adbe-ab3cf40c47f7" />
 
 
