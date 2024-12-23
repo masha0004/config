@@ -6,7 +6,8 @@
 \textbf{ФИО студента: Балыкова Мария}
 \int_x^\infty \frac{dt}{t(t^2 - 1) \log t} = \int_x^\infty \frac{1}{t \log t}\left( \sum_m t^{-2m} \right) dt = \sum_m \int_x^\infty \frac{t^{-2m}}{t \log t} dt \overset{u = t^{-2m}}{=} -\sum_m \mathrm{li}(x^{-2m})
 ```
-![alt text](image-2.png)
+
+<img width="1440" alt="image-2" src="https://github.com/user-attachments/assets/7fd32ce0-eca3-41ff-bae5-0ef92f8b873b" />
 
 ### Задача 2
 На языке PlantUML реализовать диаграмму на рисунке ниже. Прислать текст на PlantUML и картинку-результат, в которой ФИО студента заменены Вашими собственными. Обратите внимание на оформление, желательно придерживаться именно его, то есть без стандартного желтого цвета и проч. Чтобы много не писать используйте псевдонимы с помощью ключевого слова "as".
